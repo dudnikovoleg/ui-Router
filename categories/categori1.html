@@ -1,0 +1,10 @@
+<div ui-view>
+    <a ui-sref="home">Home</a>
+</div>
+<ul >
+    <li  ng-repeat="prod in items.Product">
+        <img ng-src={{prod.FontImag}}>
+        <span ng-click="somF(prod.FontImag)"> {{prod.name}}</span>
+    </li>
+
+</ul>

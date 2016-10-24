@@ -1,16 +1,24 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="myApp" >
+<html lang="en" data-ng-app="myApp" >
 <head>
-
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
-<body ng-controller="myCtrl">
-<div ui-view>
-    <a ui-sref="prod">Prod</a>
-</div>
+<body data-ng-controller="myCtrl">
 
+
+<div data-ui-view >
+        <ul>
+            <li  data-ng-repeat="prod in  items.categories">
+                <a data-ui-sref="categori1"> {{prod.categori1}}</a>
+                <a data-ui-sref="categori2"> {{prod.categori2}}</a>
+                <a data-ui-sref="categori3"> {{prod.categori3}}</a>
+            </li>
+        </ul>
+
+</div><!--end ui-view  -->
 <!------------------------------------------------------------>
-<meta charset="UTF-8">
-<title>Title</title>
+
 <script src="angular.js"></script>
 <script src="angular-ui-router.js"></script>
 <script src="script.js"></script>
