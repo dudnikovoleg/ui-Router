@@ -1,102 +1,89 @@
 [
-	{
-		"name": "cabbage",
-		"price": "0.5$",
-		"image": "images/cabbage.jpg",
-		"icon": "icons/cabbage.jpg",
-		"categoryId": "1"
-	},
-	{
-		"name": "cucumber",
-		"price": "1$",
-		"image": "images/cucumber.jpg",
-		"icon": "icons/cucumber.jpg",
-		"categoryId": "1"
-	},
-	{
-		"name": "carrot",
-		"price": "0.75$",
-		"image": "images/carrot.jpg",
-		"icon": "icons/carrot.jpg",
-		"categoryId": "1"
-	},
-	{
-		"name": "potato",
-		"price": "0.9$",
-		"image": "images/potato.jpg",
-		"icon": "icons/potato.jpg",
-		"categoryId": "1"
-	},
-	{
-		"name": "apple",
-		"price": "2$",
-		"image": "images/apple.jpg",
-		"icon": "icons/apple.jpg",
-		"categoryId": "2"
-	},
-	{
-		"name": "pear",
-		"price": "3$",
-		"image": "images/pear.jpg",
-		"icon": "icons/pear.jpg",
-		"categoryId": "2"
-	},
-	{
-		"name": "banana",
-		"price": "2.5$",
-		"image": "images/banana.jpg",
-		"icon": "icons/banana.jpg",
-		"categoryId": "2"
-	},
-	{
-		
-		"name": "kiwi",
-		"price": "3.5$",
-		"image": "images/kiwi.jpg",
-		"icon": "icons/kiwi.jpg",
-		"categoryId": "2"
-	},
-	{
-		"name": "beef",
-		"price": "4$",
-		"image": "images/beef.jpg",
-		"icon": "icons/beef.jpg",
-		"categoryId": "3"
-	},
-	{
-		"name": "pork",
-		"price": "3.75$",
-		"image": "images/pork.jpg",
-		"icon": "icons/pork.jpg",
-		"categoryId": "3"
-	},
-	{
-		
-		"name": "chicken",
-		"price": "3.25$",
-		"image": "images/chicken.jpg",
-		"icon": "icons/chicken.jpg",
-		"categoryId": "3"
-	},
-	{
-		"name": "salmon",
-		"price": "10$",
-		"image": "images/salmon.jpg",
-		"icon": "icons/salmon.jpg",
-		"categoryId": "4"
-	},
-	{
-		"name": "hake",
-		"price": "3$",
-		"image": "images/hake.jpg",
-		"icon": "icons/hake.jpg",
-		"categoryId": "4"
-	},
-	{
-		"name": "flounder",
-		"price": "4.5$",
-		"image": "images/flounder.jpg",
-		"icon": "icons/flounder.jpg",
-		"categoryId": "4"
-	}
+  {
+    "name": "BMW 1 Series",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2016/07/23/adcc9da22a7b6383a75ec5445a5ada63474a9c0f.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2016/07/23/adcc9da22a7b6383a75ec5445a5ada63474a9c0f.jpg",
+    "categoryId": "1"
+  },
+  {
+    "name": "BMW 3 Series",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "categoryId": "1"
+  },
+  {
+    "name": "BMW 4 Series",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/02/13/2a477e63a8feb432bf38fcfd9bbe7cd35af0f649.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/02/13/2a477e63a8feb432bf38fcfd9bbe7cd35af0f649.jpg",
+    "categoryId": "1"
+  },
+
+  {
+    "name": "Citroen C4",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2015/04/16/fe662d92a759ad9129082ee8da19d3f7307f3e11.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2015/04/16/fe662d92a759ad9129082ee8da19d3f7307f3e11.jpg",
+    "categoryId": "2"
+  },
+  {
+    "name": "Citroen C4 Cactus",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/11/03/b477872b7e390c0e62deeee401ffb8a24f1866df.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/11/03/b477872b7e390c0e62deeee401ffb8a24f1866df.jpg",
+    "categoryId": "2"
+  },
+  {
+    "name": "Citroen C-Elysee",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/11/03/a33e48a4df8921fc1107d9626e5320edc1c60c00.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/11/03/a33e48a4df8921fc1107d9626e5320edc1c60c00.jpg",
+    "categoryId": "2"
+  },
+
+  {
+    "name": "SKODA Rapid",
+    "price": "10000",
+    "image": "http://ct.s3.ua/ct/media/image/2014/01/29/b366195d3a5b510b9e6e02d51e382ed087264359.jpeg",
+    "icon": "http://ct.s3.ua/ct/media/image/2014/01/29/b366195d3a5b510b9e6e02d51e382ed087264359.jpeg",
+    "categoryId": "3"
+  },
+  {
+    "name": "SKODA Octavia",
+    "price": "10000",
+    "image": "http://i.infocar.ua/img/models/2577.jpg",
+    "icon": "http://i.infocar.ua/img/models/2577.jpg",
+    "categoryId": "3"
+  },
+  {
+
+    "name": "SKODA Superb",
+    "price": "10000",
+    "image": "http://ct.s3.ua/ct/media/image/2016/04/20/7272611c053f29343d89e993b72ba6c7063f0e2f.jpg",
+    "icon": "http://ct.s3.ua/ct/media/image/2016/04/20/7272611c053f29343d89e993b72ba6c7063f0e2f.jpg",
+    "categoryId": "3"
+  },
+  {
+    "name": "Ford Focus",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2015/04/02/01e30e4eef82d2f8e79f52d6b1e587635fb35e3e.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2015/04/02/01e30e4eef82d2f8e79f52d6b1e587635fb35e3e.jpg",
+    "categoryId": "4"
+  },
+  {
+    "name": "Ford Mondeo",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
+    "categoryId": "4"
+  },
+  {
+    "name": "Ford Fiesta",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/12/01/c7fc510ae07bba981493b6dfebdb0aaac1603323.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/12/01/c7fc510ae07bba981493b6dfebdb0aaac1603323.jpg",
+    "categoryId": "4"
+  }
 ]

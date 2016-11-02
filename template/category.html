@@ -1,0 +1,10 @@
+<ul >
+    <li ng-repeat="products in product | startFrom:currentPage*pageSize | limitTo:pageSize" >
+        <a ui-sref="product"    ng-click="getName(products.name)">
+        {{products.name}}
+        {{products.categoryId}}
+            <image ng-src="{{products.icon}}"   ></image>
+        </a>
+    </li>
+</ul>
+

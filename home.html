@@ -1,0 +1,9 @@
+<ul >
+    <li ng-repeat="category in items" >
+        <a ui-sref="category"  ng-click="getId(category.id)">
+            {{category.name | uppercase}}
+            <image ng-src="{{category.iconMini}}"   ></image>
+            {{category.id}}
+        </a>
+    </li>
+</ul>

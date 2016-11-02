@@ -1,22 +1,23 @@
-{
-	"1":{
-		"name": "vegetables",
+
+[
+	{
+		"name": "BMW",
 		"id": "1",
-		"icon": "icons/vegetables.jpg"	
+		"iconMini": "https://ct.autocentre.ua/ct/media/image/2014/02/19/30eba746ca8141885a4c50144887fd1579433576.jpg"
 	},
-	"2":{
-		"name": "fruit",
+	{
+		"name": "citroen",
 		"id": "2",
-		"icon": "icons/fruit.jpg"
+		"iconMini": "https://ct.autocentre.ua/ct/media/image/2014/02/19/fbd71b0ae708328de3b9f18ec58edbba34e11a89.jpg"
 	},
-	"3":{
-		"name": "meat",
+	{
+		"name": "skoda",
 		"id": "3",
-		"icon": "icons/meat.jpg"
+		"iconMini": "https://ct.autocentre.ua/ct/media/image/2014/02/19/31078627a0a77f0c3c77e8bfd091688872eb1144.jpg"
 	},
-	"4":{
-		"name": "fish",
+	{
+		"name": "ford",
 		"id": "4",
-		"icon": "icons/fish.jpg"
+		"iconMini": "https://ct.autocentre.ua/ct/media/image/2014/02/19/5eee9eba1b72854ae71eb49502a02a9acae8aa43.jpg"
 	}
-}
+]

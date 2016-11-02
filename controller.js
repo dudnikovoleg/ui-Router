@@ -1,49 +1,44 @@
-angular.module('myApp');
-
+var myApp = angular.module('myApp');
 myApp.controller('HttpRequestCtrl', httpRequestCtrl );
-
-
 httpRequestCtrl.$inject = ['$scope', 'httpRequestService'];
-
     function httpRequestCtrl ($scope,MyService) {
-
         function init() {
             MyService
-                .getCategories()
-                .then(fulfilld, rejected);
-                function fulfilld(response) {
-
-                    $scope.items = response.data;
-                    console.log($scope.items)
-            }
-
-        function rejected(error) {
-            console.log(error.data);
-            console.log(error.status);
-
-
+                .getMyCategory()
+                    .then(function(response) {
+                        $scope.items = response.data;
+                        console.log($scope.items)
+            });
+            //---------------------------------------------------//
         }
-
-        function getProducts () {
+        $scope.getId = function(id) {
             MyService
-                .getProducts()
-                .then(fulfilld, rejected);
-            function fulfilld(response) {
-
-                $scope.Products = response.data;
-                console.log($scope.Products)
-            }
-
-            function rejected(error) {
-                console.log(error.data);
-                console.log(error.status);
-
-        }
-        }}
-
-        $scope.getId = function  (id) {
-            $scope.productFontImg = id;
-            console.log( $scope.productFontImg)
+                .getMyProd()
+                .then(function(response) {
+                    $scope.product = response.data.filter(function (elem) {
+                        return (elem.categoryId) === id;
+                    });
+                });
         };
+        //---------------------------------------------------//
+
+
+        $scope.getName = function(name) {
+            console.log(name)
+            MyService
+                .getMyProd()
+                .then(function(response) {
+                    console.log( $scope.productName)
+
+                    $scope.productName = response.data.filter(function (elem) {
+                        return (elem.name) === name;
+                    });
+                });
+        };
+
+        //---------------------------------------------------//
+
+
             init()
 }
+
