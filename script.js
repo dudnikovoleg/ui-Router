@@ -8,15 +8,15 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
     $stateProvider
         .state('home',{
             url: '/home',
-            templateUrl: 'home.html'
+            templateUrl: 'category.html'
         })
-        .state('produ',{
+        .state('product',{
+            url: '/product',
+            templateUrl: 'product.html'
+        })
+        .state('about',{
             url: '/about',
-            templateUrl: 'categories/categori3.html'
-        })
-        .state('about2',{
-            url: '/about2',
-            templateUrl: 'categories/categori2.html'
+            templateUrl: 'products.html'
         })
 
 })

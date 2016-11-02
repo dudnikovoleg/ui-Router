@@ -1,0 +1,22 @@
+{
+	"1":{
+		"name": "vegetables",
+		"id": "1",
+		"icon": "icons/vegetables.jpg"	
+	},
+	"2":{
+		"name": "fruit",
+		"id": "2",
+		"icon": "icons/fruit.jpg"
+	},
+	"3":{
+		"name": "meat",
+		"id": "3",
+		"icon": "icons/meat.jpg"
+	},
+	"4":{
+		"name": "fish",
+		"id": "4",
+		"icon": "icons/fish.jpg"
+	}
+}

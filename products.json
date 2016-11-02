@@ -1,51 +1,102 @@
 [
-
-  {
-    "categoryName": "category 1",
-    "image": "imag_category/img1.jpg",
-    "id": 10001,
-    "name": "Шампунь Echosline S2 для сухих и вьющихся волос",
-    "cost": 172,
-    "ml": 1000,
-    "producer": "Echosline",
-    "country": "Италия",
-    "img": ["13860.jpg","142002.jpg","19955.jpg","19955.jpg"],
-    "description" :"<p>Вьющиеся и сухие волосы - это тема для особого разговора. Их обладательницы хоть и могут похвастаться роскошной шевелюрой, но и для того, чтобы она выглядела красиво, прилагают много усилий. Уже просто расчесать такие локоны - это целое искусство. Итальянская марка Echosline предлагает решение многих проблем. Она представляет шампунь, формула которого глубоко воздействует на стержень кудрявых волос и оказывает длительное положительное действие.</p><p>Состав средства включает протеины молока и пшеницы. Они интенсивно увлажняют и питают волосы, проникая в их структуру. Вы сразу же после первого применения заметите эффект, который обязательно порадует - волосы легко поддаются расчесыванию и не спутываются. Мягкие и эластичные локоны станут украшением вашего облика.</p><p>Способ применения: нанесите шампунь Echosline на влажные волосы, слегка помассируйте до формирования обильной пены, после смойте. Завершите процедуру применяя кондиционер C2 для сухих волос.</p>"
-  },
-  {
-    "categoryName": "category 2",
-    "image": "imag_category/img3.jpg",
-    "id": 10002,
-    "name": "Шампунь Brelil Numero с маслом карите и авокадо для сухих волос",
-    "cost": 223,
-    "ml": 1000,
-    "producer": "Brelil",
-    "country": "Италия",
-    "img": ["142002.jpg"],
-    "description" :"<p>Питательный шампунь, благодаря, входящим в состав, маслам каритэ и авокадо, интенсивно восстанавливает структуру, оздоравливает сухие, тусклые, поврежденные химической обработкой волосы, дисциплинирует волосяное волокно, убирая неэстетичный эффект распушивания. После применения, волосы приобретают мгновенный блеск, мягкость и увлажнение.  </p><p>Способ применения: нанести шампунь на влажные волосы, тщательно распределить по всей длине, помассировать, после чего смыть тёплой водой. При необходимости повторить процедуру мытья. </p><p>Состав: Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide Dea, Persea Gratissima (Avocado) Oil, Butyrospermum Parkii (Shea) Butter, Imidazolidinyl Urea, Sodium Chloride, Citric Acid, Styrene/Acrylates Copolymer, Methylchloroisothiazolinone, Methylisothiazolinone, Limonene, Linalool, Butylphenyl Methylpropional, Hexyl Cinnamal, Parfum (Fragrance)  Тип волос: сухие, тусклые, поврежденные.</p>"
-  },
-  {
-    "categoryName": "category 3",
-    "image": "imag_category/img2.jpg",
-    "id": 10003,
-    "name": "Шампунь Echosline Seliar с аргановым маслом ",
-    "cost": 126,
-    "ml": 350,
-    "producer": "Echosline",
-    "country": "Италия",
-    "img": ["19955.jpg"],
-    "description" : "<p>Ваши волосы ослаблены и нуждаются в помощи и восстановлении! Они повреждены, страдают от сухости и секущихся кончиков. Это неприятно, однако не стоит отчаиваться. Лучшим лекарством для ваших локонов станет маска с маслом авокадо и карите от Brelil. Натуральный продукт вылечит даже самые уставшие волосы. Он наполнит каждый волосок здоровьем и силой, сделает его крепким и послушным.</p><p> В составе маски содержатся масла карите и авокадо. Эти вещества питают и восстанавливают локоны, залечивают повреждения, увлажняют и делают пряди послушными. В результате локоны становятся прочными, шелковистыми, эластичными, легко расчесываются. Волосы избавляются от ломкости и расслаивающихся кончиков, быстро растут и сохраняют насыщенный цвет.     Обсуждаемая маска смягчает, питает и увлажняет кожу головы, избавляя от пересыхания и шелушения.</p><p> Используйте маску с маслами авокадо и карите от Brelil, и ваши волосы всегда будут выглядеть роскошно. <p>   <p>Способ применения: нанести крем на вымытые шампунем NUMERO волосы, тщательно распределив по всей длине волос. Помассировать поврежденные участки, оставить действовать несколько минут, после чего смыть теплой водой. </p>    <p>Состав: Aqua (Water), \"Myristyl Alcohol\", Cetrimonium Chloride, Persea Gratissima (Avocado) Oil, Amodimethicone, Trideceth-10, Imidazolidinyl Urea, Butyrospermum Parkii (Shea) Butter, Citric Acid. Phenoxyethanol, Methylparaben, Propylene Glycol, Ethylparaben, Limonene, Linalool, Butylphenyl Methylpropional, Hexyl Cinnamal, Parfum (Fragrance)</p>"
-  },
-  {
-    "categoryName": "category 4",
-
-    "id": 10004,
-    "name": "Шампунь ProfiStyle для мужчин освежающий",
-    "cost": 39,
-    "ml": 250,
-    "producer": "ProfiStyle",
-    "country": "Украина",
-    "img": ["20150703144615.jpg"],
-    "description" : "<p>ренд Profi Style является создателем великолепной продукции, предназначенной для ухода за волосами. Целью создателей бренда является подарить волосам все самое лучшее, вернуть им сияние, здоровье и обеспечить надежную защиту от неблагоприятного воздействия окружающей среды. Кроме того, эта торговая марка создает очень эффективную продукцию, предназначенную для ухода за волосами мужчин.</p>     <p>Шампунь для мужчин Profi Style тщательно очищает волосы и кожи головы от загрязнения. Придает волосам объем и неописуемый здоровый блеск. В состав шампуня входит витамин В5, который питает волосы, делая их мягкими и послушными.</p>"
-  }
+	{
+		"name": "cabbage",
+		"price": "0.5$",
+		"image": "images/cabbage.jpg",
+		"icon": "icons/cabbage.jpg",
+		"categoryId": "1"
+	},
+	{
+		"name": "cucumber",
+		"price": "1$",
+		"image": "images/cucumber.jpg",
+		"icon": "icons/cucumber.jpg",
+		"categoryId": "1"
+	},
+	{
+		"name": "carrot",
+		"price": "0.75$",
+		"image": "images/carrot.jpg",
+		"icon": "icons/carrot.jpg",
+		"categoryId": "1"
+	},
+	{
+		"name": "potato",
+		"price": "0.9$",
+		"image": "images/potato.jpg",
+		"icon": "icons/potato.jpg",
+		"categoryId": "1"
+	},
+	{
+		"name": "apple",
+		"price": "2$",
+		"image": "images/apple.jpg",
+		"icon": "icons/apple.jpg",
+		"categoryId": "2"
+	},
+	{
+		"name": "pear",
+		"price": "3$",
+		"image": "images/pear.jpg",
+		"icon": "icons/pear.jpg",
+		"categoryId": "2"
+	},
+	{
+		"name": "banana",
+		"price": "2.5$",
+		"image": "images/banana.jpg",
+		"icon": "icons/banana.jpg",
+		"categoryId": "2"
+	},
+	{
+		
+		"name": "kiwi",
+		"price": "3.5$",
+		"image": "images/kiwi.jpg",
+		"icon": "icons/kiwi.jpg",
+		"categoryId": "2"
+	},
+	{
+		"name": "beef",
+		"price": "4$",
+		"image": "images/beef.jpg",
+		"icon": "icons/beef.jpg",
+		"categoryId": "3"
+	},
+	{
+		"name": "pork",
+		"price": "3.75$",
+		"image": "images/pork.jpg",
+		"icon": "icons/pork.jpg",
+		"categoryId": "3"
+	},
+	{
+		
+		"name": "chicken",
+		"price": "3.25$",
+		"image": "images/chicken.jpg",
+		"icon": "icons/chicken.jpg",
+		"categoryId": "3"
+	},
+	{
+		"name": "salmon",
+		"price": "10$",
+		"image": "images/salmon.jpg",
+		"icon": "icons/salmon.jpg",
+		"categoryId": "4"
+	},
+	{
+		"name": "hake",
+		"price": "3$",
+		"image": "images/hake.jpg",
+		"icon": "icons/hake.jpg",
+		"categoryId": "4"
+	},
+	{
+		"name": "flounder",
+		"price": "4.5$",
+		"image": "images/flounder.jpg",
+		"icon": "icons/flounder.jpg",
+		"categoryId": "4"
+	}
 ]
