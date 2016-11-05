@@ -14,6 +14,27 @@
     "categoryId": "1"
   },
   {
+    "name": "BMW 3 Series",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "categoryId": "1"
+  },
+  {
+    "name": "BMW 3 Series",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "categoryId": "1"
+  },
+  {
+    "name": "BMW 3 Series",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2016/04/15/f564cf5fc02608c3f7538f5a5064a227210b9dc4.jpg",
+    "categoryId": "1"
+  },
+  {
     "name": "BMW 4 Series",
     "price": "10000",
     "image": "https://ct.autocentre.ua/ct/media/image/2014/02/13/2a477e63a8feb432bf38fcfd9bbe7cd35af0f649.jpg",
@@ -74,6 +95,20 @@
   },
   {
     "name": "Ford Mondeo",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
+    "categoryId": "4"
+  },
+  {
+    "name": "Ford Mo231ndeo",
+    "price": "10000",
+    "image": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
+    "icon": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
+    "categoryId": "4"
+  },
+  {
+    "name": "Ford Monde12o",
     "price": "10000",
     "image": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
     "icon": "https://ct.autocentre.ua/ct/media/image/2014/12/02/d52f491c3192b5d384abd56819ec9b6a897b14a8.jpg",
